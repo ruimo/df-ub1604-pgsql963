@@ -1,0 +1,2 @@
+check program postgres path /home/shanai/docker/df-ub1604-pgsql96x/pingAndRestart.sh
+    if status > 0 then alert
